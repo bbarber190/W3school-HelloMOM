@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>WHAT IS THE WORLD!</title>
+</head>
+<body>
+  <h1> HELLO MOMMMYYYYY!!!!</h1>
+  <p>hi mommmy this is a web site develooped right next to</p>
+  <p>My name is <b>Brandon</b> (<i>your <mark>favorite</mark> son! :D</i>)</p>
+
+  <h2>SKILLS</h2>
+  <ul>
+    <li>Fitness</li>
+    <li>Art</li>
+    <li>Coding</li>
+  </ul>
+  <img src="https://www.w3schools.com/html/img_chania.jpg" alt="A sample picture">
+</body>
+</html>
